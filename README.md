@@ -19,18 +19,7 @@ O objetivo deste projeto é criar um aplicativo que utiliza inteligência artifi
 
 **Instruções para rodar a aplicação no WOKWI:**
 
-Para rodar a aplicação entre no WOKWI, precisa ativar o sensor de presença que vai detectar se existe algum movimento no ambiente e havendo movimento mantem tudo ativo, o cadastro de ambientes é feito pelo app Mobile
-***
-
-**Usuarios do Sistema**
-- Usuario Normal
-- login: user
-- senha: user
-
-- Usuario Administrador
-- login: admin
-- senha: admin
-
+Para rodar a aplicação entre no WOKWI, precisa ativar o sensor de presença que vai detectar se existe algum movimento no ambiente e havendo movimento mantem tudo ativo, o cadastro de ambientes é feito pelo app Mobile.
 ***
 
 **Link para o video pitch:**
@@ -39,8 +28,6 @@ Para rodar a aplicação entre no WOKWI, precisa ativar o sensor de presença qu
 
 ***
 ## 1. Criação do Projeto
+- O projeto veio de uma ideia de reeducação do consumidor final onde por meio de um dispositivo IOT n[os conseguimos identificar se um ambiente está sendo utilizado ou não, dessa forma conseguimos reduzir significativamente a quantidade de energia elétrica gasta, mas não só isso, temos também uma API integrada ao Chat GPT onde damos dicas de como reduzir o consumo no dia-a-dia
 
-- Crie um projeto privado no Azure DevOps.
-- Importe o repositório do GitHub para o repositório do Azure DevOps.
-- No repositório importado, vá `application.properties` e adicione ao codigo a api key em
 
