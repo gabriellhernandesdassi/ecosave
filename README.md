@@ -28,6 +28,6 @@ Para rodar a aplicação entre no WOKWI, precisa ativar o sensor de presença qu
 
 ***
 ## 1. Criação do Projeto
-- O projeto veio de uma ideia de reeducação do consumidor final onde por meio de um dispositivo IOT n[os conseguimos identificar se um ambiente está sendo utilizado ou não, dessa forma conseguimos reduzir significativamente a quantidade de energia elétrica gasta, mas não só isso, temos também uma API integrada ao Chat GPT onde damos dicas de como reduzir o consumo no dia-a-dia
+- O projeto veio de uma ideia de reeducação do consumidor final onde por meio de um dispositivo IOT nós conseguimos identificar se um ambiente está sendo utilizado ou não, dessa forma conseguimos reduzir significativamente a quantidade de energia elétrica gasta, mas não só isso, temos também uma API integrada ao Chat GPT onde damos dicas de como reduzir o consumo no dia-a-dia
 
 
